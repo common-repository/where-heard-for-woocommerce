@@ -1,0 +1,16 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.where-heard-heading,
+.where-heard-label {
+  min-width: 350px;
+}
+
+.where-heard-info,
+.where-heard-dropdown {
+  min-height: 200px;
+  margin-top: 1em;
+  width: 60%;
+}
